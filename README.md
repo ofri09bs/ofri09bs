@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a 16-year-old **Computer Science Student** , with a great intrest in **Cybersecurity** and **machine learning**.
+I'm a 16-year-old **Computer Science Student** , with a great interest in **Cybersecurity** and **machine learning**.
 
 ---
 
