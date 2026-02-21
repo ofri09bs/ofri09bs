@@ -60,7 +60,7 @@ I'm a 16-year-old **Computer Science Student** , with a great interest in **Cybe
 
 ### 🥷💻 TryHackMe Stats
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ofri09bs.png" alt="Your Image Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ofribs.png" alt="Your Image Badge" />
 </p>
 
 ---
