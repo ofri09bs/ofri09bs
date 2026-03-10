@@ -16,7 +16,6 @@ I'm a 16-year-old **Computer Science Student** , with a great interest in **Cybe
 
 ### 🌱 Currently Exploring
 
-* 👻 **Windows Internals & Kernel**
 * 🛡️ **Offensive Security & Red Teaming**
 * 🤖 **AI & Machine Learning**
 * 🌐  **Low-Level Networking**
@@ -34,14 +33,13 @@ I'm a 16-year-old **Computer Science Student** , with a great interest in **Cybe
   <br />
 
   <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cryptography-333333?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-111111?style=for-the-badge&logo=linux&logoColor=white" />
   
   <br />
   
-  <img src="https://img.shields.io/badge/Windows%20Kernel-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/WinDbg-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Offensive%20Security-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network%20Security-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Malware%20Development-8B0000?style=for-the-badge&logo=virustotal&logoColor=white" />
 </p>
 
 ---
